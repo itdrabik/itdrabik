@@ -37,7 +37,7 @@ This repository showcases four selected projects, each highlighting a different 
 
 ## 📬 Contact
 
-📧 kamildrabik.dev@gmail.com  
+📧 it.drabik@gmail.com  
 🔗 [LinkedIn – Kamil Drabik](https://linkedin.com/in/kamil-drabik-2757a6150)
 
 ---
