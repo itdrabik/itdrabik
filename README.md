@@ -14,7 +14,7 @@ This repository showcases four selected projects, each highlighting a different 
 | [Selenium Automation Framework](https://github.com/itdrabik/selenium-automation-framework) | UI Automation | Java, Selenium, JUnit 5, Allure | Full-featured test framework using Page Object Model, action wrappers, and design patterns (Builder, Factory). Includes Allure reports and strong OOP structure. |
 | [API Testing Framework](https://github.com/itdrabik/api-testing-framework) | API Testing & BDD | Java, REST Assured, JUnit, Cucumber | REST API testing framework with JUnit and BDD scenarios written in Gherkin. Includes Allure reporting and custom test structure for maintainability. |
 | [WireMock API Proxy](https://github.com/itdrabik/wiremock-api-proxy) | Contract & Mock Testing | Spring Boot, WireMock, REST Assured | Lightweight Spring Boot project simulating an external currency API with WireMock. Includes API tests using REST Assured and service isolation patterns. |
-| [Nordea Recruitment Task](https://github.com/itdrabik/randomuserSite) | Recruitment Challenge | Java, TestNG, Selenium, REST Assured | A technical task completed within 7 hours. Includes API and GUI tests for randomuser.me, Maven profile configuration, CSV output, and parameterized execution. |
+| [Nordea Recruitment Task](https://github.com/itdrabik/randomuserSite) | Recruitment Challenge | Java, TestNG, Selenium, REST Assured | A technical task completed within 5 hours. Includes API and GUI tests for randomuser.me, Maven profile configuration, CSV output, and parameterized execution. |
 
 ---
 
